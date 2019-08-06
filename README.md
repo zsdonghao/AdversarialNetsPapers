@@ -265,6 +265,9 @@ First paper
 
 :heavy_check_mark: [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1612.03242v1.pdf)[[Code]](https://github.com/hanzhanggit/StackGAN)
 
+:heavy_check_mark: [Semantic Image Synthesis via Adversarial Learning] [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dong_Semantic_Image_Synthesis_ICCV_2017_paper.pdf)[[Code]](https://github.com/woozzu/dong_iccv_2017)
+
+
 ## Video Prediction and Generation
 
 :heavy_check_mark: [Deep multi-scale video prediction beyond mean square error] [[Paper]](https://arxiv.org/abs/1511.05440)[[Code]](https://github.com/dyelax/Adversarial_Video_Generation)(Yann LeCun's paper)
